@@ -1,0 +1,8 @@
+Added complete animation for favorite based on state
+
+HG: Enter commit message.  Lines beginning with 'HG:' are removed.
+HG: Leave message empty to abort commit.
+HG: --
+HG: user: Antonio Jimenez <aajn88@gmail.com>
+HG: branch 'default'
+HG: changed screens/MainPage.js

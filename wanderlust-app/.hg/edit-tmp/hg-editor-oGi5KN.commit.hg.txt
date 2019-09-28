@@ -1,0 +1,9 @@
+Moved Favorite and bound it with translateApi
+
+HG: Enter commit message.  Lines beginning with 'HG:' are removed.
+HG: Leave message empty to abort commit.
+HG: --
+HG: user: Antonio Jimenez <aajn88@gmail.com>
+HG: branch 'default'
+HG: changed api/TranslearnApi.js
+HG: changed screens/MainPage.js
