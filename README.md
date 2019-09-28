@@ -1,5 +1,5 @@
-# GTH-Location-TeamName
-Project submission for the `Global Travel Hackathon in [Location], by [team-name] team`.
+# GTH-London-Wanderlust
+Project submission for the `Global Travel Hackathon in London, by Wanderlust team`.
 
 **Write one sentence explaining what does your project.**
 
@@ -20,7 +20,10 @@ Write a short abstract of the project. Don't forget to include:
 ## :hugs: Maintainers
 
 List all the team members. For example:
-* [Jona Azizaj - jonatoni](https://github.com/jonatoni)
+* Pilly Bernal
+* Rob Otim
+* Charlotte Lewis
+* Antonio Jimenez
 
 
 ## :tada: Why is this so awesome?
